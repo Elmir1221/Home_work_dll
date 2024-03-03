@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_emailverifiation.exe
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_emailverifiation.deps.json
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_emailverifiation.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_emailverifiation.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_emailverifiation.pdb
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\refint\Homework_extantion_emailverifiation.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.pdb
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_emailverifiation.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\ref\Homework_extantion_emailverifiation.dll

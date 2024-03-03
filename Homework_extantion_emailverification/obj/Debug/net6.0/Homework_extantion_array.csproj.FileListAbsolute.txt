@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_array.exe
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_array.deps.json
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_array.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_array.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\bin\Debug\net6.0\Homework_extantion_array.pdb
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\refint\Homework_extantion_array.dll
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.pdb
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\Homework_extantion_array.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\Homework_extantion_array\obj\Debug\net6.0\ref\Homework_extantion_array.dll
